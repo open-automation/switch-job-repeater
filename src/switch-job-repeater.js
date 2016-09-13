@@ -39,4 +39,5 @@ function jobArrived( s : Switch, job : Job )
 		job.sendToSingle( job.getPath() );
 	});
 
+	return;
 }

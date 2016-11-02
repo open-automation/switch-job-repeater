@@ -1,6 +1,8 @@
 # switch-job-repeater
 Dynamically replicate incoming jobs. Useful for matching odd numbers of files for XML pickups or assembles.
 
+<img src="https://i.imgur.com/RPH01rU.png" width="600">
+
 ## Flow element properties
 
 ### Repeat quantity
